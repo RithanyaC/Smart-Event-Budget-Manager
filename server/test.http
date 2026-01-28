@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/approver/expenses/pending
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTc5YTYyYTFjMmVlYmU3M2UwNDZkMDMiLCJpYXQiOjE3Njk1ODAwOTYsImV4cCI6MTc2OTY2NjQ5Nn0.qD2eRncID6IPcq2ZZdyFarR0Ye0MC4WCWHZNxL4rwjg
